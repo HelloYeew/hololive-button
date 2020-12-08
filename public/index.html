@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+
+<head>
+    <meta charset="utf-8" />
+    <title>Gura Button</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <!-- icon -->
+    <link rel="icon" href="img/gura.png"/>
+
+    <meta name="title" content="Gura Button"/>
+    <meta name="description" content="a place where you can spam 'a'"/>
+
+    <meta name="og:title" content="Gura button"/>
+    <meta name="og:description" content="a place where you can spam 'a'"/>
+    <meta property="og:site_name" content="Gura button" />
+    <meta property="og:image" content="https://gura-button.netlify.app/gura.png" />
+    <meta property="og:image:width" content="1920" />
+    <meta property="og:image:height" content="1080" />
+    <meta property="og:locale" content="en_EN" />
+    <meta property="og:type" content="website" />
+
+    <link rel="stylesheet" type="text/css" href="/index.css" />
+    <link href="https://fonts.googleapis.com/css?family=Noto+Sans+SC" rel="stylesheet" />
+    <script>
+        if ('mediaSession' in navigator)
+            navigator.mediaSession.metadata = new MediaMetadata({
+                title: 'Gura Button',
+                artist: 'Gawr Gura',
+                album: 'Gawr Gura',
+                artwork: [{ src: 'gura.png' }]
+            })
+    </script>
+</head>
+
+<body id="body">
+    <main id="app">
+        <header id="header">
+            <h1 class="title">Gura Button</h1>
+            <p class="detail">a</p>
+        </header>
+        <!-- place to add repeat a -->
+        <h2 style="text-align: left;">Gold Button</h2>
+        <section id="controller">
+            <repeat-a-button src="a.mp3" time="0.3">a</repeat-a-button>
+        </section>
+        <h2 style="text-align: left;">a</h2>
+        <section id="controller">
+            <gura-button src="a.mp3" time="0.3">a</gura-button>
+        </section>
+        <h2 style="text-align: left;">Gura and Flex Tape</h2>
+        <section id="controller">
+            <gura-button src="phil-swift-to-you-with-flex-tape.mp3" time="2">Phil swift to you with Flex Tape!</gura-button>
+            <gura-button src="thats-a-lot-of-damage.mp3" time="2">That's a lot of damage!</gura-button>
+            <gura-button src="i-just-saw-this-boat-in-half.mp3" time="2">I just saw this boat in half!</gura-button>
+        </section>
+        <h2 style="text-align: left;">Other Gura Noise</h2>
+        <section id="controller">
+            <gura-button src="yeah-suck-my-toes.mp3" time="2">Yeah! Suck my toes!</gura-button>
+            <gura-button src="hey-dad-im-gura-hey-gura-im-dad-haha.mp3" time="4">Hey dad I'm Gura hey Gura I'm dad Haha.</gura-button>
+            <gura-button src="ara-ara.mp3" time="2">ARA ARA</gura-button>
+            <gura-button src="ora-ora-ora.mp3" time="2">ORA ORA ORA!</gura-button>
+            <gura-button src="no-iam-a-shark.mp3" time="2">No! I'am a shark!</gura-button>
+        </section>
+    <noscript>You need to enable JavaScript to run this app.</noscript>
+    <script type="module" src="/_dist_/index.js"></script>
+    </main>
+</body>
