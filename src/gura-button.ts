@@ -152,7 +152,7 @@ export class GuraButton extends LitElement {
                 />
             </button>
             <audio id="sound" preload="metadata">
-                <source src="/sound/${this.src}" type="audio/mpeg" />
+                <source src="/sound/gura/${this.src}" type="audio/mpeg" />
             </audio>
         `
     }

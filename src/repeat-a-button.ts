@@ -84,9 +84,9 @@ export class RepeatAButton extends LitElement {
                 -webkit-appearance: none;
                 padding: 12px 32px;
                 border-radius: 4px;
-                background-color: #007aff;
-                box-shadow: 0 2px 4px #007aff70, 0 4px 16px #007aff50,
-                    0 16px 40px #007aff50;
+                background-color: #d4af37;
+                box-shadow: 0 2px 4px #d4af3770, 0 4px 16px #d4af3750,
+                    0 16px 40px #d4af3750;
                 border: 0;
                 outline: none;
                 cursor: pointer;
@@ -95,8 +95,8 @@ export class RepeatAButton extends LitElement {
 
             #button:hover,
             #button:focus {
-                box-shadow: 0 2px 4px #007aff80, 0 20px 48px #007aff60,
-                    0 16px 40px #007aff60;
+                box-shadow: 0 2px 4px #d4af3780, 0 20px 48px #d4af3760,
+                    0 16px 40px #d4af3760;
             }
             #title {
                 font-family: 'Kanit', sans-serif;
@@ -153,7 +153,7 @@ export class RepeatAButton extends LitElement {
                 />
             </button>
             <audio id="sound" preload="metadata">
-                <source src="/sound/${this.src}" type="audio/mpeg" />
+                <source src="/sound/gura/${this.src}" type="audio/mpeg" />
             </audio>
         `
     }
