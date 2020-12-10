@@ -1,7 +1,7 @@
 import { LitElement, html, css } from 'lit-element'
 import { customElement, internalProperty, property } from 'lit-element/lib/decorators'
 
-@customElement('repeat-a-button')
+@customElement('repeat-button')
 export class RepeatAButton extends LitElement {
     @property({ type : 'string'})
     src = ''
@@ -99,7 +99,7 @@ export class RepeatAButton extends LitElement {
                     0 16px 40px #d4af3760;
             }
             #title {
-                font-family: 'Kanit', sans-serif;
+                font-family: 'Noto Sans SC', sans-serif;
                 color: #fff;
                 margin: 0;
                 font-size: 21px;
@@ -153,7 +153,7 @@ export class RepeatAButton extends LitElement {
                 />
             </button>
             <audio id="sound" preload="metadata">
-                <source src="/sound/gura/${this.src}" type="audio/mpeg" />
+                <source src="/sound/repeat/${this.src}" type="audio/mpeg" />
             </audio>
         `
     }

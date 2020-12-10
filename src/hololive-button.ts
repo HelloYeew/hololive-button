@@ -98,7 +98,7 @@ export class GuraButton extends LitElement {
                     0 16px 40px #007aff60;
             }
             #title {
-                font-family: 'Kanit', sans-serif;
+                font-family: 'Noto Sans SC', sans-serif;
                 color: #fff;
                 margin: 0;
                 font-size: 21px;
@@ -255,7 +255,7 @@ export class PekoButton extends LitElement {
                     0 16px 40px #ed912160;
             }
             #title {
-                font-family: 'Kanit', sans-serif;
+                font-family: 'Noto Sans SC', sans-serif;
                 color: #fff;
                 margin: 0;
                 font-size: 21px;
