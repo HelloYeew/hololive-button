@@ -83,9 +83,9 @@ export class GuraButton extends LitElement {
                 -webkit-appearance: none;
                 padding: 12px 32px;
                 border-radius: 4px;
-                background-color: #007aff;
-                box-shadow: 0 2px 4px #007aff70, 0 4px 16px #007aff50,
-                    0 16px 40px #007aff50;
+                background-color: #6381c1;
+                box-shadow: 0 2px 4px #6381c170, 0 4px 16px #6381c150,
+                    0 16px 40px #6381c150;
                 border: 0;
                 outline: none;
                 cursor: pointer;
@@ -94,8 +94,8 @@ export class GuraButton extends LitElement {
 
             #button:hover,
             #button:focus {
-                box-shadow: 0 2px 4px #007aff80, 0 20px 48px #007aff60,
-                    0 16px 40px #007aff60;
+                box-shadow: 0 2px 4px #6381c180, 0 20px 48px #6381c160,
+                    0 16px 40px #6381c160;
             }
             #title {
                 font-family: 'Noto Sans SC', sans-serif;
