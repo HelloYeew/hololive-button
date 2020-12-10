@@ -314,3 +314,160 @@ export class PekoButton extends LitElement {
         `
     }
 }
+
+@customElement('calliope-button')
+export class CalliopeButton extends LitElement {
+    @property({ type : 'string'})
+    src = ''
+
+    @property({ type : 'number'})
+    time = 2
+
+    @internalProperty()
+    isPlaying = false
+
+    play() {
+        requestAnimationFrame(() => {this.isPlaying = true})
+
+        if (this.isPlaying) this.isPlaying = false
+
+        let sound = this.shadowRoot?.getElementById('sound') as HTMLAudioElement
+
+        sound.pause()
+        sound.currentTime = 0
+        sound.play()
+
+        sound.onplaying = () => {
+            setTimeout(() => {
+                this.isPlaying = false
+            }, this.time * 1000 + 750)
+
+            if ('mediaSession' in navigator) {
+                // @ts-ignore
+                navigator.mediaSession.setActionHandler('play', () =>
+                    sound.play()
+                )
+
+                // @ts-ignore
+                navigator.mediaSession.setActionHandler('pause', () =>
+                    sound.pause()
+                )
+
+                // @ts-ignore
+                navigator.mediaSession.setActionHandler(
+                    'seekbackward',
+                    () => null
+                )
+
+                // @ts-ignore
+                navigator.mediaSession.setActionHandler(
+                    'seekforward',
+                    () => null
+                )
+
+                // @ts-ignore
+                navigator.mediaSession.setActionHandler(
+                    'previoustrack',
+                    () => null
+                )
+
+                // @ts-ignore
+                navigator.mediaSession.setActionHandler('nexttrack', () => null)
+            }
+        }
+    }
+
+    static get styles() {
+        return css`
+            :host {
+                display: flex;
+                justify-content: center;
+                margin: 20px 0;
+            }
+
+            #sound {
+                display: none;
+            }
+
+            #button {
+                position: relative;
+                display: flex;
+                flex-direction: row;
+                appearance: none;
+                -webkit-appearance: none;
+                padding: 12px 32px;
+                border-radius: 4px;
+                background-color: #b82a44;
+                box-shadow: 0 2px 4px #b82a4470, 0 4px 16px #b82a4450,
+                    0 16px 40px #b82a4450;
+                border: 0;
+                outline: none;
+                cursor: pointer;
+                transition: box-shadow 0.2s ease-out;
+            }
+
+            #button:hover,
+            #button:focus {
+                box-shadow: 0 2px 4px #b82a4480, 0 20px 48px #b82a4460,
+                    0 16px 40px #b82a4460;
+            }
+            #title {
+                font-family: 'Noto Sans SC', sans-serif;
+                color: #fff;
+                margin: 0;
+                font-size: 21px;
+            }
+
+            #overlay {
+                position: absolute;
+                top: 0;
+                left: 0;
+                display: block;
+                width: 0;
+                height: 100%;
+                background-color: rgba(255, 255, 255, 0.2);
+            }
+
+            @keyframes play {
+                from {
+                    width: 0;
+                }
+
+                to {
+                    width: 100%;
+                }
+            }
+
+            @keyframes fade-out {
+                from {
+                    width: 100%;
+                    opacity: 1;
+                }
+
+                to {
+                    width: 100%;
+                    opacity: 0;
+                }
+            }
+        `
+    }
+
+    render() {
+        return html`
+            <button id="button" @click="${this.play}">
+                <p id="title">
+                    <slot></slot>
+                </p>
+                <div
+                    id="overlay"
+                    style=${this.isPlaying
+                        ? `animation: play ${this.time}s 0s 1 ease-out, fade-out .75s ${this.time}s 1 ease-out;`
+                        : ''}
+                />
+            </button>
+            <audio id="sound" preload="metadata">
+                <source src="/sound/calliope/${this.src}" type="audio/mpeg" />
+            </audio>
+        `
+    }
+}

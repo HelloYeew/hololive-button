@@ -26,3 +26,7 @@ Source : [link](https://www.youtube.com/watch?v=3SlheXtia5I)
 - [Hey dad I'm Gura hey Gura I'm dad Haha.](gura/hey-dad-im-gura-hey-gura-im-dad-haha.mp3) : [link](https://www.youtube.com/watch?v=s77qUcn8iL4)
 - [ARA ARA](gura/ara-ara.mp3) and [ORA ORA ORA!](ora-ora-ora.mp3) : [link](https://www.youtube.com/watch?v=HUOYlNzCmeo)
 - [No! I'am a shark!](gura/no-iam-a-shark.mp3) : [link](https://www.youtube.com/watch?v=g5XbOxU9CkU)
+
+## Mori Calliope
+
+- [My friend play recorder better... Hey! F*** your friends! %^&%$%!](calliope/my-friend-play-recorder-better-hey-fuck-your-friend.mp3) : [link](https://www.youtube.com/watch?v=MO9O3y965Zw)
