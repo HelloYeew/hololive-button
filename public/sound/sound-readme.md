@@ -26,6 +26,8 @@ Source : [link](https://www.youtube.com/watch?v=3SlheXtia5I)
 - [Hey dad I'm Gura hey Gura I'm dad Haha.](gura/hey-dad-im-gura-hey-gura-im-dad-haha.mp3) : [link](https://www.youtube.com/watch?v=s77qUcn8iL4)
 - [ARA ARA](gura/ara-ara.mp3) and [ORA ORA ORA!](ora-ora-ora.mp3) : [link](https://www.youtube.com/watch?v=HUOYlNzCmeo)
 - [No! I'am a shark!](gura/no-iam-a-shark.mp3) : [link](https://www.youtube.com/watch?v=g5XbOxU9CkU)
+- [Who is Rem?](gura/who-is-rem.mp3) : [link](https://www.youtube.com/watch?v=DJR9CRkXpbc)
+- [When you feel anxious just pull out that recorder an put your anxiety into it.](calliope/when-you-feel-anxious-just-pull-out-that-recorder-and-put-your-anxiety-into-it.mp3) : [link](https://youtu.be/z-1bvIWe_Zo)
 
 ## Mori Calliope
 
