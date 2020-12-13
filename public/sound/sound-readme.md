@@ -2,6 +2,7 @@
 # Sound List and Source
 
 ## Gawr Gura
+
 ### a
 
 [a](gura/a.mp3) : [link](https://www.youtube.com/watch?v=1Uzw1Zr1FE4)
@@ -36,6 +37,12 @@ Source : [link](https://www.youtube.com/watch?v=3SlheXtia5I)
 - [My friend play recorder better... Hey! F*** your friends! %^&%$%!](calliope/my-friend-play-recorder-better-hey-fuck-your-friend.mp3) : [link](https://www.youtube.com/watch?v=MO9O3y965Zw)
 - [%@%& That's what you can do. When you feel anxious just pull out that recorder an put your anxiety into it. #%@%%^&%@%#% GHHHHHH #@^%@$%#% I feel good! ... I feel good!](calliope/when-you-feel-anxious-just-pull-out-that-recorder-and-put-your-anxiety-into-it.mp3) : [link](https://www.youtube.com/watch?v=z-1bvIWe_Zo)
 
+### Calliope's F Word
+
+- [F*** chandeliers](calliope/fuck-chandeliers.mp3) : [link](https://youtu.be/95qe-rozbd0)
+- [F*** that entire section](calliope/fuck-that-entire-section.mp3) : [link](https://youtu.be/95qe-rozbd0)
+- [Go f*** yourself](calliope/go-fuck-yourself.mp3) : [link](https://youtu.be/95qe-rozbd0)
+
 ### Other Calliope Noise
 
 - [How about we go check out my full body. I will now show you my body. Wait wait! Hold on! Hold on! Hold on! nonononono wait wait wait that's...](calliope/i-will-now-show-you-my-body.mp3) : [link](https://www.youtube.com/watch?v=sCItRC6bxZE&list=LL&index=11)
@@ -45,3 +52,7 @@ Source : [link](https://www.youtube.com/watch?v=3SlheXtia5I)
 - [screammm.mp3](peko/screammm.mp3) : [link](https://www.youtube.com/watch?v=W-0WSIcPQ2I&t=30s)
 - [You son of a b**** don't watch my stream!](peko/you-son-of-a-bitch-dont-watch-my-stream.mp3) : [link](https://www.youtube.com/watch?v=6m2ECND7VrY)
 - [Damn kid! Get out now and go dinner you idiot!](peko/damn-kid-get-out-now-and-go-dinner-you-idiot.mp3) : [link](https://www.youtube.com/watch?v=6m2ECND7VrY)
+
+## Akai Haato (Haachama)
+
+- [อีสั*...อีสั* (It's Thai bad word)](haachama/esuk-esuk.mp3) : [link](https://www.youtube.com/watch?v=QVF12zOyuQk)

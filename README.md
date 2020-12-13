@@ -8,8 +8,9 @@ If you want more vtuber you can do it and just pull request!
 - [Aom's Prophet Button](https://github.com/SaltyAom/prophet-button)
 - I want to spam 'a'.
 
-## Live Website
+## Live Webs
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d8f7a2ef-ea39-481e-83c2-49dc62dd6608/deploy-status)](https://app.netlify.com/sites/awesome-kowalevski-0d550e/deploys)
 [http://hololive-button.helloyeew.dev](http://hololive-button.helloyeew.dev)
 
 ## For Development
@@ -36,7 +37,8 @@ npm run build
 
 ## Available Hololive Button
 
-- Gawr Gura
-- Calliope
-- Pekora
-- Korone
+- 🦈 Gawr Gura
+- 💀 Mori Calliope
+- 🥕 Pekora
+- 🐶 Inugami Korone
+- ❣️ Akai Haato (Haachama)
