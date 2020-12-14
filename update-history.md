@@ -1,6 +1,16 @@
 
 # Button Update History
 
+## 14 December 2020
+
+### Add new button
+
+#### Gura
+
+-[a in aututune](public/sound/gura/a-in-autotune.mp3)
+
+<hr>
+
 ## 13 December 2020
 
 ### Add new Vtuber

@@ -5,7 +5,8 @@
 
 ### a
 
-[a](gura/a.mp3) : [link](https://www.youtube.com/watch?v=1Uzw1Zr1FE4)
+-[a](gura/a.mp3) : [link](https://www.youtube.com/watch?v=1Uzw1Zr1FE4)
+-[*a in autotune](gura/a-in-autotune.mp3) : [link](https://www.youtube.com/watch?v=47z7Gb66dDs)
 
 ### Gura and Flex Tape
 
