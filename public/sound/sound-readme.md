@@ -30,6 +30,7 @@ Source : [link](https://www.youtube.com/watch?v=3SlheXtia5I)
 - [No! I'am a shark!](gura/no-iam-a-shark.mp3) : [link](https://www.youtube.com/watch?v=g5XbOxU9CkU)
 - [Who is Rem?](gura/who-is-rem.mp3) : [link](https://www.youtube.com/watch?v=DJR9CRkXpbc)
 - [FBI Open Up!! Hahaha](gura/fbi-open-up.mp3) : [link](https://www.youtube.com/watch?v=8FQpmS9nwic)
+- [STOP KILLING ME!!!](gura/stop-killing-me.mp3) : [link](https://www.youtube.com/watch?v=AJEUcX-BUoo)
 
 ## Mori Calliope
 
@@ -53,6 +54,9 @@ Source : [link](https://www.youtube.com/watch?v=3SlheXtia5I)
 - [screammm.mp3](peko/screammm.mp3) : [link](https://www.youtube.com/watch?v=W-0WSIcPQ2I&t=30s)
 - [You son of a b**** don't watch my stream!](peko/you-son-of-a-bitch-dont-watch-my-stream.mp3) : [link](https://www.youtube.com/watch?v=6m2ECND7VrY)
 - [Damn kid! Get out now and go dinner you idiot!](peko/damn-kid-get-out-now-and-go-dinner-you-idiot.mp3) : [link](https://www.youtube.com/watch?v=6m2ECND7VrY)
+
+## Korone
+- [I am die thank you forever.](korone/i-am-die-thank-you-forever.mp3) : [link](https://www.youtube.com/watch?v=Oe_wHf4_TKo)
 
 ## Akai Haato (Haachama)
 

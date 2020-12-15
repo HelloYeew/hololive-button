@@ -1,6 +1,24 @@
 
 # Button Update History
 
+## 15 December 2020
+
+### Add new button
+
+#### Gura
+
+-[STOP KILLING ME!!!](public/sound/gura/stop-killing-me.mp3)
+
+#### Inugumi Korone
+
+-[I am die thank you forever.](public/sound/korone/i-am-die-thank-you-forever.mp3)
+
+### Other Improvement
+
+-Set preload on Google font API
+
+<hr>
+
 ## 14 December 2020
 
 ### Add new button
