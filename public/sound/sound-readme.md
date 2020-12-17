@@ -31,6 +31,7 @@ Source : [link](https://www.youtube.com/watch?v=3SlheXtia5I)
 - [Who is Rem?](gura/who-is-rem.mp3) : [link](https://www.youtube.com/watch?v=DJR9CRkXpbc)
 - [FBI Open Up!! Hahaha](gura/fbi-open-up.mp3) : [link](https://www.youtube.com/watch?v=8FQpmS9nwic)
 - [STOP KILLING ME!!!](gura/stop-killing-me.mp3) : [link](https://www.youtube.com/watch?v=AJEUcX-BUoo)
+- [bread](gura/bread.mp3) : [link](https://www.youtube.com/watch?v=OX_cieIA1Ww)
 
 ## Mori Calliope
 
@@ -56,8 +57,15 @@ Source : [link](https://www.youtube.com/watch?v=3SlheXtia5I)
 - [Damn kid! Get out now and go dinner you idiot!](peko/damn-kid-get-out-now-and-go-dinner-you-idiot.mp3) : [link](https://www.youtube.com/watch?v=6m2ECND7VrY)
 
 ## Korone
+
 - [I am die thank you forever.](korone/i-am-die-thank-you-forever.mp3) : [link](https://www.youtube.com/watch?v=Oe_wHf4_TKo)
+- [shampoo](korone/shampoo.mp3) and [*doggo scream*](korone/scream.mp3): [link](https://www.youtube.com/watch?v=PMHeQFqFin0)
+- [Yubi Yubi *scream*](korone/yubi-yubi-scream.mp3) : [link](https://www.youtube.com/watch?v=sowESlcktC8)
 
 ## Akai Haato (Haachama)
 
 - [อีสั*...อีสั* (It's Thai bad word)](haachama/esuk-esuk.mp3) : [link](https://www.youtube.com/watch?v=QVF12zOyuQk)
+
+## Fubuki
+
+- [Are you happy?](fubuki/are-you-happy.mp3) : [link](https://www.youtube.com/watch?v=cCqrJEcncyc)

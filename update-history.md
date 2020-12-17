@@ -1,6 +1,32 @@
 
 # Button Update History
 
+## 17 December 2020
+
+### Add new Vtuber
+
+<p style="text-align: left;">
+    <img src="public/img/fubuki-ch.png" alt="fubuki" width="50" height="50" style="vertical-align:middle"> 🌽 Fubuki
+</p>
+
+### Add new button
+
+#### Gura
+
+-[bread](public/sound/gura/bread.mp3)
+
+#### Inugumi Korone
+
+-[scream](public/sound/korone/scream.mp3)
+-[shampoo](public/sound/korone/shampoo.mp3)
+-[yubu yubi *scream*](public/sound/korone/yubi-yubi-scream.mp3)
+
+#### Other Improvement
+
+-Fix disclaimer word to center
+
+<hr>
+
 ## 15 December 2020
 
 ### Add new button

@@ -42,3 +42,4 @@ npm run build
 - 🥕 Pekora
 - 🐶 Inugami Korone
 - ❣️ Akai Haato (Haachama)
+- 🌽 Fubuki
