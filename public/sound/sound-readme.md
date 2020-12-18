@@ -61,6 +61,7 @@ Source : [link](https://www.youtube.com/watch?v=3SlheXtia5I)
 - [I am die thank you forever.](korone/i-am-die-thank-you-forever.mp3) : [link](https://www.youtube.com/watch?v=Oe_wHf4_TKo)
 - [shampoo](korone/shampoo.mp3) and [*doggo scream*](korone/scream.mp3): [link](https://www.youtube.com/watch?v=PMHeQFqFin0)
 - [Yubi Yubi *scream*](korone/yubi-yubi-scream.mp3) : [link](https://www.youtube.com/watch?v=sowESlcktC8)
+- [*Jingle bell song*](korone/jingle-bell.mp3) : [link](https://youtu.be/ujFyKWeAdrI)
 
 ## Akai Haato (Haachama)
 
