@@ -6,6 +6,7 @@ If you want more vtuber you can do it and just pull request!
 ## Inspiration
 
 - [Aom's Prophet Button](https://github.com/SaltyAom/prophet-button)
+- [Gura button](https://gura-button.helloyeew.dev)
 - I want to spam 'a'.
 
 ## Live Webs

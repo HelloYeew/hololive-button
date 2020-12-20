@@ -62,6 +62,7 @@ Source : [link](https://www.youtube.com/watch?v=3SlheXtia5I)
 - [shampoo](korone/shampoo.mp3) and [*doggo scream*](korone/scream.mp3): [link](https://www.youtube.com/watch?v=PMHeQFqFin0)
 - [Yubi Yubi *scream*](korone/yubi-yubi-scream.mp3) : [link](https://www.youtube.com/watch?v=sowESlcktC8)
 - [*Jingle bell song*](korone/jingle-bell.mp3) : [link](https://youtu.be/ujFyKWeAdrI)
+- [Turtle. Turtle house. Smol smol turtle house.](korone/turtle-turtle-house-smol-smol-turtle-house.mp3) : [link](https://www.youtube.com/watch?v=P7hDL1ezhP4)
 
 ## Akai Haato (Haachama)
 

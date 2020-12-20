@@ -1,6 +1,23 @@
 
 # Button Update History
 
+## 20 December 2020
+
+### Add new button
+
+#### Calliope
+
+- [A practice blowing into the recorder. I'm just gonna blow into ^&*&&*(^*&& GHH %^ &* $% until you cease %↘️ %↘️ %↘️ Maybe if I play really loud they'll stop %↘️ %→ %↗️ No one will want to recorder ever again. *^%^*(%(&(^*&*(<](public/sound/calliope/calliope-recorder-3.mp3)
+
+#### Inugumi Korone
+
+- [Human is turtle. Turtle is human. Turtle is korone. Korone is human. Human is doggo. Doggo is human.](public/sound/korone/human-is-turtle-turtle-is-human-turtle-is-korone-korone-is-human-human-is-doggo-doggo-is-human.mp3)
+- [Turtle. Turtle house. Smol smol turtle house.](public/sound/korone/turtle-turtle-house-smol-smol-turtle-house.mp3)
+
+### Other Improvement
+
+- Change og:title and other
+
 ## 18 December 2020
 
 ### Add new Vtuber
