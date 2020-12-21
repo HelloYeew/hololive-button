@@ -21,6 +21,7 @@ Source : [link](https://www.youtube.com/watch?v=3SlheXtia5I)
 -[Gura, what is 9+10? 11?](gura/gura-what-is-nine-plus-ten-eleven.mp3) : [link](https://www.youtube.com/watch?v=0L0y9KrteMU)
 -[9x9 is 36](gura/nine-time-nine-is-thirty-six.mp3) : [link](https://www.youtube.com/watch?v=zOdBO8WQAEc)
 -[9x9 It's now like tricky on your finger. 123456789 that leaves 12345678 Yeah 31!](gura/nine-time-nine-its-tricky-on-your-finger-123456789-12345678-thirty-one.mp3) : [link](https://www.youtube.com/watch?v=zOdBO8WQAEc)
+- [5x5 is 35!!!](gura/five-time-five-is-thirty-five.mp3) : [link](https://youtu.be/YzbEWyc_3Gs)
 
 ### Other Gura Noise
 
@@ -63,6 +64,9 @@ Source : [link](https://www.youtube.com/watch?v=3SlheXtia5I)
 - [Yubi Yubi *scream*](korone/yubi-yubi-scream.mp3) : [link](https://www.youtube.com/watch?v=sowESlcktC8)
 - [*Jingle bell song*](korone/jingle-bell.mp3) : [link](https://youtu.be/ujFyKWeAdrI)
 - [Turtle. Turtle house. Smol smol turtle house.](korone/turtle-turtle-house-smol-smol-turtle-house.mp3) : [link](https://www.youtube.com/watch?v=P7hDL1ezhP4)
+- [no no no yes](korone/no-no-no-yes.mp3) : [link](https://www.youtube.com/watch?v=zb9ZQl3iOfU)
+- [oooooooooo](korone/o.mp3) : [link](https://www.youtube.com/watch?v=_yGoYNkAjvY))
+- [Have confidence *ded mario* No confidence](https://www.youtube.com/watch?v=RYSCo5NsYdE) : [link](https://www.youtube.com/watch?v=RYSCo5NsYdE)
 
 ## Akai Haato (Haachama)
 

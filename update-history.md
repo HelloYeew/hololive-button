@@ -1,6 +1,24 @@
 
 # Button Update History
 
+## 21 December 2020
+
+### Add new button
+
+#### Gura
+
+-[5x5 is 35!!!](public/sound/gura/five-time-five-is-thirty-five.mp3)
+
+#### Korone
+
+- [Have confidencce *ded mario* No confidence](public/sound/korone/have-confidence-no-confidence.mp3)
+- [No No Nononono...YES!](public/sound/korone/no-no-no-yes.mp3)
+- [ooooooooooooooo](public/sound/korone/o.mp3)
+
+### Other Improvement
+
+- Add "Korone and her Mario"
+
 ## 20 December 2020
 
 ### Add new button
