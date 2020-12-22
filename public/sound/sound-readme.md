@@ -5,8 +5,9 @@
 
 ### a
 
--[a](gura/a.mp3) : [link](https://www.youtube.com/watch?v=1Uzw1Zr1FE4)
--[*a in autotune](gura/a-in-autotune.mp3) : [link](https://www.youtube.com/watch?v=47z7Gb66dDs)
+- [a](gura/a.mp3) : [link](https://www.youtube.com/watch?v=1Uzw1Zr1FE4)
+- [*a in autotune](gura/a-in-autotune.mp3) : [link](https://www.youtube.com/watch?v=47z7Gb66dDs)
+- [a a aaaaa](gura/a-a-aaaaa.mp3) : [link](https://youtu.be/lbatU6g8DlM)
 
 ### Gura and Flex Tape
 
@@ -67,6 +68,9 @@ Source : [link](https://www.youtube.com/watch?v=3SlheXtia5I)
 - [no no no yes](korone/no-no-no-yes.mp3) : [link](https://www.youtube.com/watch?v=zb9ZQl3iOfU)
 - [oooooooooo](korone/o.mp3) : [link](https://www.youtube.com/watch?v=_yGoYNkAjvY))
 - [Have confidence *ded mario* No confidence](https://www.youtube.com/watch?v=RYSCo5NsYdE) : [link](https://www.youtube.com/watch?v=RYSCo5NsYdE)
+- [What the f***](korone/what-the-fuck.mp3) : [link](https://youtu.be/8ID2hI_4YPU)
+- [F***](korone/fuck.mp3) : [link](https://youtu.be/8ID2hI_4YPU)
+- [Happy face...Happy dog](korone/happy-face-happy-dog.mp3) : [link](https://www.youtube.com/watch?v=3D7TLzrQl1w)
 
 ## Akai Haato (Haachama)
 
@@ -75,3 +79,8 @@ Source : [link](https://www.youtube.com/watch?v=3SlheXtia5I)
 ## Fubuki
 
 - [Are you happy?](fubuki/are-you-happy.mp3) : [link](https://www.youtube.com/watch?v=cCqrJEcncyc)
+- [Yabe](fubuki/yabe.mp3) : [link](https://www.youtube.com/watch?v=TUDxCh3TXWY)
+
+## Matsuri
+
+- [I am god,OK?](matsuri/im-god-ok.mp3) : [link](https://www.youtube.com/watch?v=Nd5ieJcM_Tg)

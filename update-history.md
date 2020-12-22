@@ -1,6 +1,42 @@
 
 # Button Update History
 
+## 22 December 2020
+
+### Add new Vtuber
+
+<p style="text-align: left;">
+    <img src="public/img/matsuri-ch.png" alt="matsuri" width="50" height="50" style="vertical-align:middle"> 🏮 Matsuri
+</p>
+
+### Add new button
+
+#### Gura
+
+- [a a aaaaa](public/sound/gura/a-a-aaaaa.mp3)
+
+#### Korone
+
+- [F***](public/sound/korone/fuck.mp3)
+- [What the f***](public/sound/korone/what-the-fuck.mp3)
+- [Happy face...Happy dog](public/sound/korone/happy-face-happy-dog.mp3)
+
+#### Fubuki
+
+- [Yabe](public/sound/fubuki/yabe.mp3)
+
+#### Matsuri
+
+- [I'm god,OK?](public/sound/matsuri/im-god-ok.mp3)
+
+### Other Improvement
+
+- Resize all picture to make it download faster
+- Fix typo
+- Edit some loudness in some sound
+
+<hr>
+
 ## 21 December 2020
 
 ### Add new button
@@ -18,6 +54,8 @@
 ### Other Improvement
 
 - Add "Korone and her Mario"
+
+<hr>
 
 ## 20 December 2020
 

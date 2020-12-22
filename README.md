@@ -51,3 +51,4 @@ npm run build
 - 🐶 Inugami Korone
 - ❣️ Akai Haato (Haachama)
 - 🌽 Fubuki
+- 🏮 Matsuri
