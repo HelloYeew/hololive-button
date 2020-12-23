@@ -1,6 +1,6 @@
-# Hololive Button
+# Vtuber Button
 
-A website that you can spam 'a' or 'AH↗️ HA↘️ HA↗️ HA↘️ HA↗️' and more sound from Gura and other holilive idol.
+A website that you can spam 'a' or 'AH↗️ HA↘️ HA↗️ HA↘️ HA↗️' and more sound from Gura and other vtuber.
 If you want more vtuber you can do it and just pull request!
 
 ## Inspiration
@@ -9,11 +9,11 @@ If you want more vtuber you can do it and just pull request!
 - [Gura button](https://gura-button.helloyeew.dev)
 - I want to spam 'a'.
 
-## Live Webs
+## Live Website
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/d8f7a2ef-ea39-481e-83c2-49dc62dd6608/deploy-status)](https://app.netlify.com/sites/awesome-kowalevski-0d550e/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d8f7a2ef-ea39-481e-83c2-49dc62dd6608/deploy-status)](https://app.netlify.com/sites/vtuber-button/deploys)
 
-[http://hololive-button.helloyeew.dev](http://hololive-button.helloyeew.dev)
+[http://vtuber-button.helloyeew.dev](http://vtuber-button.helloyeew.dev)
 
 ## For Development
 
@@ -37,7 +37,7 @@ or to build a website use this command
 npm run build
 ```
 
-## Available Hololive Button
+## Available Vtuber Button
 
 ### Hololive EN
 

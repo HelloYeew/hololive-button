@@ -1,6 +1,15 @@
 
 # Button Update History
 
+## 23 December 2020
+
+### Big update about website
+
+- Change domain to [https://vtuber-button.helloyeew.dev](https://vtuber-button.helloyeew.dev) and change title name to "Vtuber Button" to support other vtuber outside Hololive Group (Repo name too.)
+- Prepare to add AMatsula Uto and other vtuber outside hololive
+
+<hr>
+
 ## 22 December 2020
 
 ### Add new Vtuber
