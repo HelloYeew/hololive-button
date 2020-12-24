@@ -1,6 +1,21 @@
 
 # Button Update History
 
+## 24 December 2020
+
+### Add new button
+
+#### Calliope
+
+- [a](public/sound/calliope/a.mp3)
+
+### Other Improvement
+
+- Change disclaimer word since this website is not in hololive anymore.
+- Add new part: " 'a' compilation "
+
+<hr>
+
 ## 23 December 2020
 
 ### Big update about website
