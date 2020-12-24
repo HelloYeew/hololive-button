@@ -13,6 +13,7 @@
 
 - Change disclaimer word since this website is not in hololive anymore.
 - Add new part: " 'a' compilation "
+- [Trail]Add background (It's curse)
 
 <hr>
 
