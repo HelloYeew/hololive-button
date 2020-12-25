@@ -84,3 +84,7 @@ Source : [link](https://www.youtube.com/watch?v=3SlheXtia5I)
 ## Matsuri
 
 - [I am god,OK?](matsuri/im-god-ok.mp3) : [link](https://www.youtube.com/watch?v=Nd5ieJcM_Tg)
+
+## Amatsuka Uto
+
+- [STOPPU x7 Gomen Gomen](uto/stoppu-stoppu-stoppu-stoppu-stoppu-gomen.mp3) : [link](https://www.youtube.com/watch?v=5kLWkn9vq9U)

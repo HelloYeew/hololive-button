@@ -1,6 +1,24 @@
 
 # Button Update History
 
+## 25 December 2020 ``` Merry Christmas!```
+
+### Add new Vtuber
+
+<p style="text-align: left;">
+    <img src="public/img/uto-ch.png" alt="matsuri" width="50" height="50" style="vertical-align:middle"> 🏹 Amatsuka Uto
+</p>
+
+### Add new button
+
+#### Amatsuka Uto
+
+- [STOPPU x7 Gomen Gomen](public/sound/uto/stoppu-stoppu-stoppu-stoppu-stoppu-gomen.mp3)
+
+### Other Improvement
+
+- Sort Vtuber in available part
+
 ## 24 December 2020
 
 ### Add new button

@@ -41,7 +41,7 @@ npm run build
 
 ### Hololive EN
 
-- 🦈 Gawr Gura
+- 🔱 Gawr Gura
 - 💀 Mori Calliope
 - 🔍 Watson Amelia
 
@@ -52,3 +52,7 @@ npm run build
 - ❣️ Akai Haato (Haachama)
 - 🌽 Fubuki
 - 🏮 Matsuri
+
+### Solol Vtuber
+
+- 🏹 Amatsuka Uto
