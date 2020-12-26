@@ -1,6 +1,15 @@
 
 # Button Update History
 
+## 26 December 2020
+
+### Add new button
+
+#### Pekora
+- [PE↗️ KO↘️ PE↗️ KO↘️ PE↗️ KO↘️ PE ↗️ KO↘️](public/src/sound/pekora/pe-ko-pe-ko-pe-ko-pe-ko.mp3)
+
+<hr>
+
 ## 25 December 2020 ``` Merry Christmas!```
 
 ### Add new Vtuber
@@ -18,6 +27,9 @@
 ### Other Improvement
 
 - Sort Vtuber in available part
+- Change Gura emoji from 🦈 to 🔱
+
+<hr>
 
 ## 24 December 2020
 

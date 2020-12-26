@@ -57,6 +57,7 @@ Source : [link](https://www.youtube.com/watch?v=3SlheXtia5I)
 - [screammm.mp3](peko/screammm.mp3) : [link](https://www.youtube.com/watch?v=W-0WSIcPQ2I&t=30s)
 - [You son of a b**** don't watch my stream!](peko/you-son-of-a-bitch-dont-watch-my-stream.mp3) : [link](https://www.youtube.com/watch?v=6m2ECND7VrY)
 - [Damn kid! Get out now and go dinner you idiot!](peko/damn-kid-get-out-now-and-go-dinner-you-idiot.mp3) : [link](https://www.youtube.com/watch?v=6m2ECND7VrY)
+- [PE↗️ KO↘️ PE↗️ KO↘️ PE↗️ KO↘️ PE ↗️ KO↘️](peko/pe-ko-pe-ko-pe-ko-pe-ko.mp3) : [link](https://youtu.be/f5mSy49yx6s)
 
 ## Korone
 
