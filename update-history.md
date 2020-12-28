@@ -1,12 +1,31 @@
 
 # Button Update History
 
+## 27 December 2020
+
+### Add new button
+
+#### Gawr Gura
+
+- [Get active with me AHH](public/sound/gura/get-active-with-me-ah.mp3)
+
+#### Amatsuka Uto
+
+- [Wut da daqqq](public/sound/uto/wut-da-faq.mp3)
+
+### Other Improvement
+
+- Adjust some loudness in some files
+- Fix typo
+
+<hr>
+
 ## 26 December 2020
 
 ### Add new button
 
 #### Pekora
-- [PE↗️ KO↘️ PE↗️ KO↘️ PE↗️ KO↘️ PE ↗️ KO↘️](public/src/sound/pekora/pe-ko-pe-ko-pe-ko-pe-ko.mp3)
+- [PE↗️ KO↘️ PE↗️ KO↘️ PE↗️ KO↘️ PE ↗️ KO↘️](public/sound/pekora/pe-ko-pe-ko-pe-ko-pe-ko.mp3)
 
 <hr>
 

@@ -89,3 +89,4 @@ Source : [link](https://www.youtube.com/watch?v=3SlheXtia5I)
 ## Amatsuka Uto
 
 - [STOPPU x7 Gomen Gomen](uto/stoppu-stoppu-stoppu-stoppu-stoppu-gomen.mp3) : [link](https://www.youtube.com/watch?v=5kLWkn9vq9U)
+- [Wut da faqqq](uto/wut-da-faq.mp3) : [link](https://www.youtube.com/watch?v=Qc_7y-oZyy8)
