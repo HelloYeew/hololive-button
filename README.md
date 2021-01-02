@@ -53,6 +53,6 @@ npm run build
 - 🌽 Fubuki
 - 🏮 Matsuri
 
-### Solol Vtuber
+### Solo Vtuber
 
 - 🏹 Amatsuka Uto
