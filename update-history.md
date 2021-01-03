@@ -1,5 +1,13 @@
 
-# Button Update History
+# Update History
+
+## 3 January 2021
+
+### Other Improvement
+
+- Add code in HTML for search engine and support Twitter card
+
+<hr>
 
 ## 27 December 2020
 
