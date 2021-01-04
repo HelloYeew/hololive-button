@@ -1,6 +1,22 @@
 
 # Update History
 
+## 5 January 2021
+
+### Add new button
+
+#### Korone
+
+- [What the f*** 2](public/sound/korone/what-the-fuck-2.mp3)
+- [weiweiweiwei-wawawawawawei](public/sound/korone/weiweiweiwei-wawawawawawei.mp3)
+
+### Other Improvement
+
+- Add new part for korone "Korone's English"
+- Adjust some loudness in some files
+
+<hr>
+
 ## 3 January 2021
 
 ### Other Improvement
