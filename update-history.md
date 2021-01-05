@@ -1,6 +1,30 @@
 
 # Update History
 
+## 6 January 2021 ```Happy Lockdown!```
+
+### Add new button
+
+#### Gura
+
+- [It's fookin raw](public/sound/gura/its-fookin-raw.mp3)
+- [sha a ak](public/sound/gura/sha-a-ak.mp3)
+- [shaaark shaaark shaaark](public/sound/gura/shark-shark-shark.mp3)
+- [shark hehe](public/sound/gura/shark-hehe.mp3)
+
+#### Fubuki
+
+- [dokomitedayo](public/sound/fubuki/doko-mitedayo.mp3)
+
+### Other Improvement
+
+- Adjust some loudness in some files
+- Add new part for Gura "Shaaaaaark"
+- Prepare to add Coco
+- Add Update History (This file) link on website
+
+<hr>
+
 ## 5 January 2021
 
 ### Add new button

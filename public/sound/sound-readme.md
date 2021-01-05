@@ -2,12 +2,15 @@
 # Sound List and Source
 
 ## Gawr Gura
-
 ### a
 
 - [a](gura/a.mp3) : [link](https://www.youtube.com/watch?v=1Uzw1Zr1FE4)
 - [*a in autotune](gura/a-in-autotune.mp3) : [link](https://www.youtube.com/watch?v=47z7Gb66dDs)
 - [a a aaaaa](gura/a-a-aaaaa.mp3) : [link](https://youtu.be/lbatU6g8DlM)
+
+### Shaaaaaaaark
+
+[link](https://www.youtube.com/watch?v=pqTSvylD550)
 
 ### Gura and Flex Tape
 
@@ -34,6 +37,7 @@ Source : [link](https://www.youtube.com/watch?v=3SlheXtia5I)
 - [FBI Open Up!! Hahaha](gura/fbi-open-up.mp3) : [link](https://www.youtube.com/watch?v=8FQpmS9nwic)
 - [STOP KILLING ME!!!](gura/stop-killing-me.mp3) : [link](https://www.youtube.com/watch?v=AJEUcX-BUoo)
 - [bread](gura/bread.mp3) : [link](https://www.youtube.com/watch?v=OX_cieIA1Ww)
+- [It's fookin raw](gura/its-fookin-raw.mp3) : [link](https://www.youtube.com/watch?v=w59iZCdNtS0)
 
 ## Mori Calliope
 
@@ -81,6 +85,7 @@ Source : [link](https://www.youtube.com/watch?v=3SlheXtia5I)
 
 - [Are you happy?](fubuki/are-you-happy.mp3) : [link](https://www.youtube.com/watch?v=cCqrJEcncyc)
 - [Yabe](fubuki/yabe.mp3) : [link](https://www.youtube.com/watch?v=TUDxCh3TXWY)
+- [Dokomitendayo](fubuki/doko-mitedayo.mp3) : [link](https://www.youtube.com/watch?v=iUsecpG2bWI)
 
 ## Matsuri
 
@@ -90,3 +95,7 @@ Source : [link](https://www.youtube.com/watch?v=3SlheXtia5I)
 
 - [STOPPU x7 Gomen Gomen](uto/stoppu-stoppu-stoppu-stoppu-stoppu-gomen.mp3) : [link](https://www.youtube.com/watch?v=5kLWkn9vq9U)
 - [Wut da faqqq](uto/wut-da-faq.mp3) : [link](https://www.youtube.com/watch?v=Qc_7y-oZyy8)
+
+# Kiryu Coco
+
+-[Ara Ara Mother F******](coco/ara-ara-mother-fucker.mp3) : [link](https://www.youtube.com/watch?v=GM0X2Er3Trw)
