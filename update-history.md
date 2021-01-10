@@ -1,6 +1,22 @@
 
 # Update History
 
+## 10 January 2021
+
+### Add new Vtuber
+
+<p style="text-align: left;">
+    <img src="public/img/coco-ch.png" alt="coco" width="50" height="50" style="vertical-align:middle"> 🐉 Kiryu Coco
+</p>
+
+### Add new button
+
+#### Coco
+
+- [Ara Ara Mother F*****](public/sound/coco/ara-ara-mother-fucker.mp3)
+
+<hr>
+
 ## 6 January 2021 ```Happy Lockdown!```
 
 ### Add new button

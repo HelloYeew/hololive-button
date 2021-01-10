@@ -52,6 +52,7 @@ npm run build
 - ❣️ Akai Haato (Haachama)
 - 🌽 Fubuki
 - 🏮 Matsuri
+- 🐉 Kiryu Coco
 
 ### Solo Vtuber
 
