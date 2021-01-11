@@ -1,6 +1,14 @@
 
 # Update History
 
+## 11 January 2021
+
+### Other Improvement
+
+- Change Haachama channel pic
+
+<hr>
+
 ## 10 January 2021
 
 ### Add new Vtuber
