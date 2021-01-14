@@ -1,9 +1,17 @@
 
 # Update History
 
-## 11 January 2021
+## 15 January 2021
 
 ### Other Improvement
+
+- Add files prepare to add more 2 best girls
+
+<hr>
+
+## 11 January 2021
+
+### Other Improvement 
 
 - Change Haachama channel pic
 
