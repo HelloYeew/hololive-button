@@ -55,6 +55,8 @@ Source : [link](https://www.youtube.com/watch?v=3SlheXtia5I)
 ### Other Calliope Noise
 
 - [How about we go check out my full body. I will now show you my body. Wait wait! Hold on! Hold on! Hold on! nonononono wait wait wait that's...](calliope/i-will-now-show-you-my-body.mp3) : [link](https://www.youtube.com/watch?v=sCItRC6bxZE&list=LL&index=11)
+- [Only big chest allowed here](calliope/only-big-chest-allowed-here.mp3) : [link](https://youtu.be/DS6AuBWkapg)
+- [SHUT UP CHAT SHUT UP!](calliope/shut-up-chat-shut-up.mp3) : [link](https://youtu.be/DS6AuBWkapg)
 
 ## Pekora
 

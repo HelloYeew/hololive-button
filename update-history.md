@@ -1,6 +1,17 @@
 
 # Update History
 
+## 25 January 2021
+
+### Add new button
+
+#### Calliope
+
+- [Only big chest allowed here](public/sound/calliope/only-big-chest-allowed-here.mp3)
+- [SHUT UP CHAT SHUT UP!](public/sound/calliope/shut-up-chat-shut-up.mp3)
+
+<hr>
+
 ## 15 January 2021
 
 ### Other Improvement
