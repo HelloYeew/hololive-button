@@ -1,6 +1,12 @@
 
 # Update History
 
+## 12 Febuary 2021 ```Happy Lunar New Year!```
+
+### Other Improvement
+
+- Change Akai Haato's Channel Picture
+
 ## 25 January 2021
 
 ### Add new button
