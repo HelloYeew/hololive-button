@@ -1,11 +1,30 @@
 
 # Update History
 
+## 27 March 2021
+
+### Add new button
+
+#### Korone
+
+- [I am Volkswagen](korone/i-am-volkswagen.mp3)
+- [I am a Mercedes Benz](korone/i-am-a-mercedes-benz.mp3)
+- [I am a BMW...I am a BMW OKKKKKKK](korone/i-am-a-bmw-i-am-a-bmw-ok.mp3)
+
+### Other Improvement
+
+- Fix some typo in [update history](update-history.md).
+- Fix Akai Haato channel picture not show properly
+
+<hr>
+
 ## 12 Febuary 2021 ```Happy Lunar New Year!```
 
 ### Other Improvement
 
 - Change Akai Haato's Channel Picture
+
+<hr>
 
 ## 25 January 2021
 
@@ -244,6 +263,8 @@
 ### Other Improvement
 
 - Change og:title and other
+
+<hr>
 
 ## 18 December 2020
 

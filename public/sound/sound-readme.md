@@ -78,6 +78,9 @@ Source : [link](https://www.youtube.com/watch?v=3SlheXtia5I)
 - [What the f***](korone/what-the-fuck.mp3) : [link](https://youtu.be/8ID2hI_4YPU)
 - [F***](korone/fuck.mp3) : [link](https://youtu.be/8ID2hI_4YPU)
 - [Happy face...Happy dog](korone/happy-face-happy-dog.mp3) : [link](https://www.youtube.com/watch?v=3D7TLzrQl1w)
+- [I am Volkswagen](korone/i-am-volkswagen.mp3) : [link](https://www.youtube.com/watch?v=rGs-sEfWQJU)
+- [I am a Mercedes Benz](korone/i-am-a-mercedes-benz.mp3) : [link](https://www.youtube.com/watch?v=rGs-sEfWQJU)
+- [I am a BMW...I am a BMW OKKKKKKK](korone/i-am-a-bmw-i-am-a-bmw-ok.mp3) : [link](https://www.youtube.com/watch?v=rGs-sEfWQJU)
 
 ## Akai Haato (Haachama)
 
