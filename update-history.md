@@ -1,6 +1,12 @@
 
 # Update History
 
+## 28 March 2021
+
+### Other Improvement
+
+- In 'Available Vtuber' part, fix Akai Haato show Haachama instead
+
 ## 27 March 2021
 
 ### Add new button
